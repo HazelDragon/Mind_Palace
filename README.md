@@ -1,6 +1,11 @@
 # Mind_Palace
 Open source version of thesis 
 
+# Requirements: 
+Unity Version 2021.3.45f1
+Meta Quest 2
+Reciept Printer 
+
 # How To install to Unity
 1) Download zip
 2) Unzip project
